@@ -34,8 +34,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/plasma-mobile/21.08/keysmith-21.08.tar.xz", 
-                    "sha256": "2075f1eec25f1f780d8c939976c734193c4b1d13b902a7ca5995b313a98d4839"
+                    "url": "https://download.kde.org/stable/plasma-mobile/21.12/keysmith-21.12.tar.xz", 
+                    "sha256": "fe3ba028bf13d92a513467535443af2e860e17d4db7179080ceb6bd1d6d86216"
                 }
             ]
         }
