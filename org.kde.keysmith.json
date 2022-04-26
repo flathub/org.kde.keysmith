@@ -11,7 +11,6 @@
         "--socket=wayland",
         "--device=dri"
     ],
-
     "modules": [
         {
             "name": "libsodium",
@@ -20,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/jedisct1/libsodium/archive/refs/tags/1.0.18.tar.gz",
-                    "sha256": "d59323c6b712a1519a5daf710b68f5e7fde57040845ffec53850911f10a5d4f4",
+                    "url": "https://github.com/jedisct1/libsodium/archive/refs/tags/1.0.18-RELEASE.tar.gz",
+                    "sha256": "b7292dd1da67a049c8e78415cd498ec138d194cfdb302e716b08d26b80fecc10",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1728,
@@ -34,12 +33,15 @@
         {
             "name": "org.kde.keysmith",
             "buildsystem": "cmake-ninja",
-            "config-opts": [ "-DBUILD_TESTING=OFF", "-DCMAKE_BUILD_TYPE=RelWithDebInfo" ],
+            "config-opts": [
+                "-DBUILD_TESTING=OFF",
+                "-DCMAKE_BUILD_TYPE=RelWithDebInfo"
+            ],
             "builddir": true,
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/plasma-mobile/22.04/keysmith-22.04.tar.xz", 
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/plasma-mobile/22.04/keysmith-22.04.tar.xz",
                     "sha256": "9122320da1281a5e0ee5b64dc585b59156deb9078cae41cb81d456205026a133"
                 }
             ]
