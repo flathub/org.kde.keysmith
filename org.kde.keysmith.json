@@ -42,7 +42,13 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/plasma-mobile/22.04/keysmith-22.04.tar.xz",
-                    "sha256": "9122320da1281a5e0ee5b64dc585b59156deb9078cae41cb81d456205026a133"
+                    "sha256": "9122320da1281a5e0ee5b64dc585b59156deb9078cae41cb81d456205026a133",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 261773,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/plasma-mobile/$version/keysmith-$version.tar.xz"
+                    }
                 }
             ]
         }
