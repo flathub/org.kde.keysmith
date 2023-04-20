@@ -41,13 +41,13 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma-mobile/23.01.0/keysmith-23.01.0.tar.xz",
-                    "sha256": "6eb9aacb013721a3ba8d0a85f304b5659b6bc43925c3ab4ac786069e875baf54",
+                    "url": "https://download.kde.org/stable/release-service/23.04.0/src/keysmith-23.04.0.tar.xz",
+                    "sha256": "e8717f4fb470fbbac32257e9ef181a3f14d90300bdf48f7689492db4c78f74a7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 261773,
                         "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/plasma-mobile/$version/keysmith-$version.tar.xz"
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/keysmith-$version.tar.xz"
                     }
                 }
             ]
