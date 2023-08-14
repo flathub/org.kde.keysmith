@@ -45,9 +45,9 @@
                     "sha256": "924eb9a378bae98a7581746dfd3c20e38b8d6e0e0a926e4f613ed2a64c28d7e5",
                     "x-checker-data": {
                         "type": "anitya",
-                        "project-id": 261773,
+                        "project-id": 368663,
                         "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/release-service/$version/src/keysmith-$version.tar.xz"
+                        "url-template": "https://download.kde.org/unstable/release-service/$version/src/keysmith-$version.tar.xz"
                     }
                 }
             ]
