@@ -19,13 +19,13 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/jedisct1/libsodium/archive/refs/tags/1.0.20-RELEASE.tar.gz",
-                    "sha256": "8e5aeca07a723a27bbecc3beef14b0068d37e7fc0e97f51b3f1c82d2a58005c1",
+                    "url": "https://download.libsodium.org/libsodium/releases/libsodium-1.0.20-stable.tar.gz",
+                    "sha256": "7f346572ed8b2413e3389a0541f895dc4dfa4d41b616ee9ea4146181a845862b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1728,
                         "stable-only": true,
-                        "url-template": "https://github.com/jedisct1/libsodium/archive/refs/tags/$version.tar.gz"
+                        "url-template": "https://download.libsodium.org/libsodium/releases/libsodium-$version-stable.tar.gz"
                     }
                 }
             ]
