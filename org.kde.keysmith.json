@@ -37,8 +37,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-1.4.0.tar.xz",
-                    "sha256": "56e3ceb52055b5603320ea08b27d3673d32a391a8d58646d998227d8b51f0a93",
+                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-1.5.0.tar.xz",
+                    "sha256": "f9dfd191022b633ea3348f84730d7158a159dfe49668dba0a9e9bd678ac44e54",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242933,
@@ -59,8 +59,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.1/src/keysmith-24.08.1.tar.xz",
-                    "sha256": "cf7ebbec12fd631ec83621c341e3cac7792a9e859f5f992e6e236495a2323026",
+                    "url": "https://download.kde.org/stable/release-service/24.08.2/src/keysmith-24.08.2.tar.xz",
+                    "sha256": "4d90a3fbd6db73f62d32388313d1ca22b17133b5224bedf318bd9954c21e215b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 261773,
