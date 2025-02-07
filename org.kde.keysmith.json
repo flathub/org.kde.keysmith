@@ -20,7 +20,7 @@
                 {
                     "type": "archive",
                     "url": "https://download.libsodium.org/libsodium/releases/libsodium-1.0.20-stable.tar.gz",
-                    "sha256": "7f346572ed8b2413e3389a0541f895dc4dfa4d41b616ee9ea4146181a845862b",
+                    "sha256": "ccf899ad8208d67e51236f626f5f5f2c2078ae7e363ea71ca1342656024f7e7d",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1728,
@@ -59,8 +59,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.12.1/src/keysmith-24.12.1.tar.xz",
-                    "sha256": "2934bb86c04cb2a8bcbb5edee137f7629512c0e9121302fe3a176149a2ee71e9",
+                    "url": "https://download.kde.org/stable/release-service/24.12.2/src/keysmith-24.12.2.tar.xz",
+                    "sha256": "96f59a7e530fa23f204df3bfb716d18cef838efa14c9ed57e5a5ec6af77a0662",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 261773,
