@@ -20,7 +20,7 @@
                 {
                     "type": "archive",
                     "url": "https://download.libsodium.org/libsodium/releases/libsodium-1.0.20-stable.tar.gz",
-                    "sha256": "7f346572ed8b2413e3389a0541f895dc4dfa4d41b616ee9ea4146181a845862b",
+                    "sha256": "ccf899ad8208d67e51236f626f5f5f2c2078ae7e363ea71ca1342656024f7e7d",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1728,
