@@ -4,7 +4,6 @@
     "runtime-version": "6.8",
     "sdk": "org.kde.Sdk",
     "command": "keysmith",
-    "rename-icon": "keysmith",
     "finish-args": [
         "--share=ipc",
         "--socket=fallback-x11",
@@ -20,7 +19,7 @@
                 {
                     "type": "archive",
                     "url": "https://download.libsodium.org/libsodium/releases/libsodium-1.0.20-stable.tar.gz",
-                    "sha256": "ccf899ad8208d67e51236f626f5f5f2c2078ae7e363ea71ca1342656024f7e7d",
+                    "sha256": "d8a92649772fb9d90ca4342defc4b9bd020be83d09a2937b592a12c9af988200",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1728,
@@ -59,8 +58,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.12.3/src/keysmith-24.12.3.tar.xz",
-                    "sha256": "2516e59611e6f2209ff8cae34edacbeb9e1dccb16c3b5afea69c9264c09613c5",
+                    "url": "https://download.kde.org/stable/release-service/25.04.0/src/keysmith-25.04.0.tar.xz",
+                    "sha256": "0201f1df96af17afa5a9f0ba3fd2e5f581b5e789e634f29875071f0661656f2e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 261773,
