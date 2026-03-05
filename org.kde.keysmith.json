@@ -50,8 +50,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/keysmith-25.12.2.tar.xz",
-                    "sha256": "1f4c03c080d632dc30ba0ee579e613706e8e7fd150a48dd2171d06a7c1ab1a37",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/keysmith-25.12.3.tar.xz",
+                    "sha256": "e1bcd577cabec0235ae08a693a94f71ae5de0df2271febc64f04ebc8319da2d4",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 261773,
